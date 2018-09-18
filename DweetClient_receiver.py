@@ -3,7 +3,7 @@ import json
 import time
 curr = 1
 def updateInfo():
-	myDat = requests.get("https://dweet.io/get/latest/dweet/for/c4syner")
+	myDat = requests.get("https://dweet.io/get/latest/dweet/for/dweetyserver")
 	time.sleep(2)
 	thisJson = json.loads(myDat.text)
 	try:
