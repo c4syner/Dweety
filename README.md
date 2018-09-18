@@ -16,12 +16,12 @@ while the Message Sender sends your message to the server!
 Open up two Terminals:
 
 Terminal 1:
-`cd Dweety` or whatever the directory is named.
-`python3 DweetClient_sender.py`
+- `cd Dweety` or whatever the directory is named.
+- `python3 DweetClient_sender.py`
 
 Terminal 2:
-`cd Dweety`
-`python3 DweetClient_receiver.py`
+- `cd Dweety`
+- `python3 DweetClient_receiver.py`
 
 ### To Run on Mac (macOs Sierra Tested) and Windows (Not Tested)
 Make sure Python 3 IDLE is installed.
@@ -44,10 +44,10 @@ And if people are online then they will see your message too on their Receiver.
 
 ## Improvements
 By no means is this project finished, there are many things I would like to see done with this project:
-> Combining the two programs into one perhaps using multithreading?
-> Ability to join different chat servers - Coming Soon!
-> Encrypted Data Transmission
-> A GUI version for those who fear the terminal
+- Combining the two programs into one perhaps using multithreading?
+- Ability to join different chat servers - Coming Soon!
+- Encrypted Data Transmission
+- A GUI version for those who fear the terminal
 If you have any Ideas, Let me know in the comments!
 
 ## Liscensing
