@@ -9,6 +9,7 @@ The simplest possible chat room built using Python 3 and the dweet.io api!
 Due to my limited coding abilities you must have 2 programs running at the same time: 
   - The Chat Receiver
   - The Message Sender
+
 The Chat Reciever retrieves the data that others have sent,
 while the Message Sender sends your message to the server! 
 
