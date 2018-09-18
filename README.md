@@ -58,3 +58,5 @@ which means you are encouraged to modify this project the way you like.
 
 ## Change Log
 > 1.0.0: Initial Release
+
+#### Thanks to the Developers at Dweet.io for creating such a simple and easy to use api!
