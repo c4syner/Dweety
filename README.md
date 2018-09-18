@@ -49,12 +49,12 @@ By no means is this project finished, there are many things I would like to see 
 - Ability to join different chat servers - Coming Soon!
 - Encrypted Data Transmission
 - A GUI version for those who fear the terminal
+
 If you have any Ideas, Let me know in the comments!
 
 ## Liscensing
-This project is liscensed under the GNU GPLv3 Liscense 
-which means you have the freedom to do whatever you want with this file! 
-As a matter of fact it is encouraged that you modify and make it the way you like!
+This project is liscensed under the GNU GPLv3 Liscense,
+which means you are encouraged to modify this project the way you like.
 
 ## Change Log
 > 1.0.0: Initial Release
