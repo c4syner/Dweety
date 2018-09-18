@@ -3,14 +3,16 @@ import json
 import time
 def sendInfo():
     myIn = input("Message: ")
-    if(myIn == EXIT):
-        
-    url = "https://dweet.io/dweet/for/c4syner?myData="+myName+": "+myIn
+    if(myIn == "EXIT"):
+        return 9
+    url = "https://dweet.io/dweet/for/dweetyserver?myData="+myName+": "+myIn
     thisOut = requests.get(url)
 print("Welcome to Dweety (Sender)")
 myName = input("Username: ")
 while(True):
-    sendInfo()
+    myVal = sendInfo()
+    if(myVal == 9):
+        break
 
     
         
