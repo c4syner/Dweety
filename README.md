@@ -39,6 +39,7 @@ On the second instance:
 
 ## Usage
 On The sender program type in a Username (A display name) in the `Username: ` prompt.
+Type in what Nest (Server) you would like to join.
 Then type in a message you would like to send and press enter!
 In a few seconds you will see your Username followed by your message on Receiver Program!
 And if people are online then they will see your message too on their Receiver.
@@ -46,7 +47,7 @@ And if people are online then they will see your message too on their Receiver.
 ## Improvements
 By no means is this project finished, there are many things I would like to see done with this project:
 - Combining the two programs into one perhaps using multithreading?
-- Ability to join different chat servers - Coming Soon!
+- Ability to join different chat servers - ##### DONE!
 - Encrypted Data Transmission
 - A GUI version for those who fear the terminal
 
@@ -58,5 +59,6 @@ which means you are encouraged to modify this project the way you like.
 
 ## Change Log
 > 1.0.0: Initial Release
+> 1.0.1: Added the ability to choose server, and bug fixes
 
 #### Thanks to the Developers at Dweet.io for creating such a simple and easy to use api!
