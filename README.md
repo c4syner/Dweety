@@ -58,7 +58,7 @@ This project is liscensed under the GNU GPLv3 Liscense,
 which means you are encouraged to modify this project the way you like.
 
 ## Change Log
-> 1.0.0: Initial Release.
+> 1.0.0: Initial Release<\br>
 > 1.0.1: Added the ability to choose server, and bug fixes.
 
 #### Thanks to the Developers at Dweet.io for creating such a simple and easy to use api!
