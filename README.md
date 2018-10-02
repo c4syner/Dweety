@@ -6,7 +6,7 @@ The simplest possible chat room built using Python 3 and the dweet.io api!
 2. Clone this repo into your directory and your done! No extra dependencies or installations needed!
 
 ## Running the Programs
-Due to my limited coding abilities you must have 2 programs running at the same time: 
+ To use this you must have 2 programs running at the same time: 
   - The Chat Receiver
   - The Message Sender
 
