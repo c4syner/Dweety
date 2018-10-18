@@ -5,7 +5,6 @@ curr = 1
 def updateInfo():
 	myUrl = "https://dweet.io/get/latest/dweet/for/" + serv
 	myDat = requests.get(myUrl)
-	time.sleep(2)
 	thisJson = json.loads(myDat.text)
 	try:
 		myMess= thisJson["with"][0]["content"]["myData"]
