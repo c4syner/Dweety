@@ -1,6 +1,5 @@
 import requests
 import json
-import time
 curr = 1
 def updateInfo():
 	myUrl = "https://dweet.io/get/latest/dweet/for/" + serv
@@ -9,11 +8,11 @@ def updateInfo():
 	try:
 		myMess= thisJson["with"][0]["content"]["myData"]
 	except:
-		goodMeat = 1
+		pass
 	try:
 		return myMess
 	except:
-		coolStuffBEan = 9
+		pass
 print("Welcome to Dweety Reciever")
 serv = input("Enter a Nest to Join: ")
 print("Connected!")
