@@ -22,10 +22,10 @@ while(True):
 		curr = curr + 1
 	currOp = updateInfo()
 	if(currOp == None):
-		HiGoodFood = 20
+		pass
 	else:
 		if(lastOp == currOp):
-			Rekt = 20
+			pass
 		else:
 			print(currOp)
 		lastOp = currOp
